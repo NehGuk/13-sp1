@@ -1,0 +1,65 @@
+/* UNIVERSAL */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: var(--grey);
+  margin: 0;
+}
+
+/* COLOUR PALETTE */
+:root {
+  --purple: #223773;
+  --blue: #76aede;
+  --pink: #c4a3cf;
+  --grey: #cfcfcf;
+  --white: #fdfdff;
+}
+
+/* TYPOGRAPHY */
+h1 {
+  font-family: poleno, sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-size: 90px;
+  color: var(--purple);
+}
+
+h2 {
+  font-family: poleno, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 70px;
+  color: var(--pink);
+}
+
+h3 {
+  font-family: poleno, sans-serif;
+  font-weight: 400;
+  font-style: normal;
+  font-size: 40px;
+  color: var(--purple);
+}
+
+.regular-text {
+  font-family: nobel, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 42px;
+  color: var(--purple);
+}
+
+.smaller-text {
+  font-family: nobel, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 28px;
+  color: var(--purple);
+}
+
+img {
+  /* Add border radius 50% as default? */
+}
