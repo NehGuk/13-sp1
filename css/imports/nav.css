@@ -2,7 +2,9 @@ header {
   background: var(--purple);
   min-height: 120px;
   margin-top: -1px;
-  /* position: fixed; */
+  position: fixed;
+  width: 100%;
+  margin-top: -200px;
 }
 
 .logo {

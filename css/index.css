@@ -3,11 +3,27 @@
 @import url(/css/imports/nav.css);
 
 /* COVER */
-
+.cover {
+  display: block;
+  margin-top: 200px;
+}
 /* CONTENT A */
+.sectiona {
+  display: block;
+}
 
 /* CONTENT B */
 
+.sectionb {
+  display: block;
+}
 /* CONTENT C */
+.sectionc {
+  display: block;
+}
 
+/* CONTENT D */
+.sectiond {
+  display: block;
+}
 /* FOOTER */
