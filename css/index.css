@@ -8,6 +8,7 @@ h1 {
   color: var(--blue);
   padding: 50px 50px 0px 50px;
   text-align: center;
+  margin-top: -20px;
 }
 
 .smaller-text {
@@ -22,7 +23,7 @@ h1 {
   background-image: url(/images/sp1-22.jpg);
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: center center;
+  background-position: bottom;
   background-attachment: scroll;
   height: 100vh;
 }
@@ -42,7 +43,7 @@ h1 {
 }
 
 .grid-item1 p {
-  padding: 10px 200px 100px;
+  padding: 20px 200px 60px 200px;
 }
 
 .grid-item2 {
@@ -50,11 +51,19 @@ h1 {
   top: 60px;
 }
 
-@media (max-width: 800px) {
+.cover__cta .grid-item2 a {
+  display: none;
+}
+
+@media (max-width: 1390px) {
   h1 {
-    font-size: 55px;
+    font-size: 40px;
+    margin-top: 20px;
   }
 
+  .smaller-text {
+    font-size: 22px;
+  }
   .cover {
     background-position: bottom;
   }
@@ -69,6 +78,6 @@ h1 {
   }
 
   .grid-item1 p {
-    padding: 10px 10px 100px;
+    padding: 10px 10px 20px;
   }
 }
