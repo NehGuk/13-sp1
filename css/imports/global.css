@@ -84,7 +84,6 @@ h3 {
 
 .cover__cta:hover {
   background-color: var(--white);
-
   color: var(--purple);
 }
 
@@ -113,13 +112,13 @@ h3 {
 
 @media (max-width: 1000px) {
   .img-big {
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
   }
 
   .img-small {
-    width: 100px;
-    height: 100px;
+    width: 90px;
+    height: 90px;
   }
 
   h2 {
