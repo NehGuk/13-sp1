@@ -3,27 +3,72 @@
 @import url(/css/imports/nav.css);
 
 /* COVER */
+
+h1 {
+  color: var(--blue);
+  padding: 50px 50px 0px 50px;
+  text-align: center;
+}
+
+.smaller-text {
+  color: var(--white);
+  padding: 30px 150px;
+  text-align: center;
+  margin-top: 0px;
+}
+
 .cover {
-  display: block;
-  margin-top: 200px;
-}
-/* CONTENT A */
-.sectiona {
-  display: block;
-}
-
-/* CONTENT B */
-
-.sectionb {
-  display: block;
-}
-/* CONTENT C */
-.sectionc {
-  display: block;
+  padding-top: 300px;
+  background-image: url(/images/sp1-22.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  background-attachment: scroll;
+  height: 100vh;
 }
 
-/* CONTENT D */
-.sectiond {
-  display: block;
+.cover__grid {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  width: 70%;
+  margin: 0 auto;
+  position: relative;
+  top: -100px;
 }
-/* FOOTER */
+
+.grid-item1 {
+  background: var(--purple);
+  opacity: 70%;
+}
+
+.grid-item1 p {
+  padding: 10px 200px 100px;
+}
+
+.grid-item2 {
+  position: relative;
+  top: 60px;
+}
+
+@media (max-width: 800px) {
+  h1 {
+    font-size: 55px;
+  }
+
+  .cover {
+    background-position: bottom;
+  }
+
+  .cover__grid {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    width: 100%;
+    margin: 0 auto;
+    position: relative;
+    top: -200px;
+  }
+
+  .grid-item1 p {
+    padding: 10px 10px 100px;
+  }
+}
