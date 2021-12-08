@@ -6,13 +6,14 @@
 }
 
 body {
-  background: var(--grey);
+  background: var(--purple);
   margin: 0;
 }
 
 /* COLOUR PALETTE */
 :root {
   --purple: #223773;
+  --dark-purple: #1e2c6b;
   --blue: #76aede;
   --pink: #c4a3cf;
   --grey: #cfcfcf;
@@ -87,6 +88,41 @@ h3 {
   color: var(--purple);
 }
 
-img {
-  /* Add border radius 50% as default? */
+.img-big {
+  width: 400px;
+  height: 400px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: solid 10px var(--blue);
+}
+
+.img-small {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: solid 10px var(--pink);
+  position: relative;
+  top: -100px;
+}
+
+.arrow {
+  text-align: center;
+  padding: 30px 0px;
+}
+
+@media (max-width: 1000px) {
+  .img-big {
+    width: 300px;
+    height: 300px;
+  }
+
+  .img-small {
+    width: 100px;
+    height: 100px;
+  }
+
+  h2 {
+    font-size: 40px;
+  }
 }

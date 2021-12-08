@@ -2,7 +2,7 @@
 @import url(/css/imports/global.css);
 @import url(/css/imports/nav.css);
 
-/* COVER */
+/* SECTION COVER */
 
 h1 {
   color: var(--blue);
@@ -55,7 +55,49 @@ h1 {
   display: none;
 }
 
+/* SECTION ARE YOU READY */
+
+.are-you-ready {
+  background-color: var(--dark-purple);
+  width: 100%;
+}
+.are-you-ready h2 {
+  margin-top: 0px;
+  text-align: right;
+}
+
+.are-you-ready .smaller-text {
+  color: var(--white);
+  text-align: left;
+  padding: 0px 0px 0px 70px;
+  text-align: right;
+}
+
+.are-you-ready__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 80%;
+  margin: 0 auto;
+  gap: 80px;
+}
+
+.are-you-ready__grid__left {
+  /* background: green; */
+  padding-top: 150px;
+}
+
+.are-you-ready__grid__right {
+  /* background: yellow; */
+  padding-top: 50px;
+  max-width: 400px;
+}
+
+.img-container {
+  text-align: left;
+}
+
 @media (max-width: 1390px) {
+  /* COVER */
   h1 {
     font-size: 40px;
     margin-top: 20px;
@@ -79,5 +121,24 @@ h1 {
 
   .grid-item1 p {
     padding: 10px 10px 20px;
+  }
+
+  @media (max-width: 1000px) {
+    /* ARE YOU READY */
+    .are-you-ready__grid {
+      grid-template-columns: 1fr;
+    }
+
+    .are-you-ready h2 {
+      margin-top: 0px;
+      text-align: left;
+    }
+
+    .are-you-ready .smaller-text {
+      color: var(--white);
+      text-align: left;
+      padding: 10px 0px;
+      text-align: left;
+    }
   }
 }
