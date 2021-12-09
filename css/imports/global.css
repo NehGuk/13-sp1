@@ -64,6 +64,16 @@ h3 {
   color: var(--purple);
 }
 
+.content3-text {
+  font-family: nobel, sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: 28px;
+  color: var(--dark-purple);
+  padding-right: 40px;
+}
+
+/* CTAs */
 .cover__cta {
   font-family: nobel, sans-serif;
   font-weight: 600;
@@ -87,6 +97,29 @@ h3 {
   color: var(--purple);
 }
 
+.content3__cta {
+  font-family: nobel, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 24px;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: var(--purple);
+  width: 300px;
+  padding: 20px 60px;
+  display: block;
+  margin-top: 20px;
+  color: var(--white);
+  text-align: center;
+}
+
+.content3__cta:hover {
+  background-color: var(--white);
+  color: var(--purple);
+  border: solid 5px var(--dark-purple);
+}
+
+/* IMAGES */
 .img-big {
   width: 400px;
   height: 400px;
@@ -103,6 +136,14 @@ h3 {
   border: solid 10px var(--pink);
   position: relative;
   top: -100px;
+}
+
+.img-content3 {
+  width: 247px;
+  height: 247px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: solid 10px var(--blue);
 }
 
 .arrow {
