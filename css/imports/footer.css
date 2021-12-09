@@ -58,6 +58,10 @@ footer img {
   grid-template-columns: 1fr 1fr 1fr;
 }
 
+.deco-line {
+  color: white;
+}
+
 @media (max-width: 990px) {
   .footer__main-container {
     display: grid;
