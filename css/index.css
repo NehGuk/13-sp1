@@ -192,6 +192,18 @@ h1 {
   border: solid 5px var(--dark-purple);
 }
 
+.content3 .img-kids {
+  border: solid 10px var(--pink);
+}
+
+.content3 .img-teachers {
+  border: solid 10px var(--blue);
+}
+
+.content3 .img-researchers {
+  border: solid 10px var(--grey);
+}
+
 @media (max-width: 1390px) {
   /* COVER */
   h1 {
