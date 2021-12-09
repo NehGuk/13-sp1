@@ -163,13 +163,10 @@ h1 {
 }
 
 .content3__grid-item {
-  /* background: green; */
+  background: green;
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-}
-
-.content3__grid-item a {
 }
 
 .content3 .blue {
