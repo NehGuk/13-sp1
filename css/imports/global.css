@@ -164,19 +164,55 @@ h3 {
 }
 
 @media (max-width: 1000px) {
+  .img-container {
+  }
+
   .img-big {
-    width: 250px;
-    height: 250px;
+    width: 200px;
+    height: 200px;
     border: 5px solid var(--blue);
+    display: block;
+    margin: -30px auto 50px;
   }
 
   .img-small {
-    width: 90px;
-    height: 90px;
-    border: 5px solid var(--pink);
+    display: none;
   }
 
   h2 {
     font-size: 40px;
+  }
+
+  h3 {
+    font-size: 30px;
+    text-align: center;
+  }
+
+  .content3 {
+    padding-top: 30px;
+  }
+
+  .content3 a,
+  img {
+    text-align: center;
+    margin: 20px auto 0px;
+  }
+
+  .content3 a {
+    font-size: 14px;
+  }
+
+  .content3 p {
+    font-size: 18px;
+    text-align: center;
+    padding-right: 0;
+  }
+
+  .arrow-down {
+    padding-top: 20px;
+  }
+
+  .arrow-down img {
+    width: 30px;
   }
 }
