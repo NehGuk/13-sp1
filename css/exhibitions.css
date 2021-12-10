@@ -102,10 +102,45 @@ h1 {
   background-color: var(--grey);
 }
 
-.grey h2,
-.smaller-text {
+.grey h2 {
   color: var(--purple);
 }
+
+.grey .smaller-text {
+  color: var(--dark-purple);
+}
+
+.grey .img-big {
+  border: solid 10px var(--blue);
+}
+
+.grey .img-small {
+  border: solid 10px var(--pink);
+}
+
+/* SECTION BIOLOGY & MEDICINE */
+.white {
+  background-color: var(--white);
+}
+
+.white h2 {
+  color: var(--blue);
+}
+
+.white .smaller-text {
+  color: var(--purple);
+}
+
+.grey .img-big {
+  border: solid 10px var(--blue);
+}
+
+.grey .img-small {
+  border: solid 10px var(--pink);
+}
+
+/* SECTION ROBOTICS & AI */
+/* unchanged style */
 
 @media (max-width: 1390px) {
   /* COVER */
@@ -160,7 +195,6 @@ h1 {
   }
 
   .content1 .smaller-text {
-    color: var(--white);
     text-align: left;
     padding: 10px 0px;
     text-align: left;
