@@ -38,6 +38,10 @@ nav a:hover {
   color: var(--blue);
 }
 
+#active {
+  color: var(--blue);
+}
+
 .hamburger-label {
   font-size: 3em;
   float: right;
