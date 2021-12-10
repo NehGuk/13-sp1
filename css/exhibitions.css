@@ -142,6 +142,11 @@ h1 {
 /* SECTION ROBOTICS & AI */
 /* unchanged style */
 
+/* SECTION ECOLOGY */
+#ecology {
+  padding-bottom: 120px;
+}
+
 @media (max-width: 1390px) {
   /* COVER */
   h1 {
