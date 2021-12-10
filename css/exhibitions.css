@@ -147,6 +147,11 @@ h1 {
   padding-bottom: 120px;
 }
 
+.exhibitions-cta {
+  display: flex;
+  justify-content: center;
+}
+
 @media (max-width: 1390px) {
   /* COVER */
   h1 {

@@ -150,9 +150,17 @@ h3 {
   border: solid 10px var(--blue);
 }
 
-.arrow {
+/* ARROWS */
+.arrow-down {
   text-align: center;
-  padding: 30px 0px;
+}
+
+.arrow-down img {
+  padding-bottom: 60px;
+}
+
+.arrow-down img:hover {
+  opacity: 60%;
 }
 
 @media (max-width: 1000px) {
