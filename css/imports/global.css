@@ -1,4 +1,4 @@
-/* UNIVERSAL */
+/* GLOBAL STYLES */
 * {
   margin: 0;
   padding: 0;
@@ -94,6 +94,7 @@ h3 {
   text-align: center;
   position: relative;
   bottom: 30px;
+  border: solid transparent;
 }
 
 .cover__cta:hover {
@@ -115,6 +116,7 @@ h3 {
   margin-top: 20px;
   color: var(--white);
   text-align: center;
+  border: solid 5px transparent;
 }
 
 .content3__cta:hover {
@@ -163,10 +165,102 @@ h3 {
   opacity: 60%;
 }
 
-@media (max-width: 1000px) {
-  .img-container {
-  }
+/* SECTION COVER */
 
+h1 {
+  color: var(--blue);
+  padding: 50px 50px 0px 50px;
+  text-align: center;
+  margin-top: -20px;
+}
+
+.smaller-text {
+  color: var(--white);
+  padding: 30px 150px;
+  text-align: center;
+  margin-top: 0px;
+}
+
+.cover {
+  padding-top: 300px;
+  background-image: url(/images/sp1-22.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+  background-attachment: scroll;
+  height: 100vh;
+}
+
+.cover__grid {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  width: 70%;
+  margin: 0 auto;
+  position: relative;
+  top: -100px;
+}
+
+.grid-item1 {
+  /* background: rgb(34, 55, 115, 0.8); */
+  background: var(--purple);
+  opacity: 70%;
+}
+
+.grid-item1 p {
+  padding: 20px 200px 60px 200px;
+}
+
+.grid-item2 {
+  position: relative;
+  top: 60px;
+}
+
+.cover__cta .grid-item2 a {
+  display: none;
+}
+
+/* SECTION CONTENT 1 */
+
+.content1 {
+  background-color: var(--dark-purple);
+  width: 100%;
+}
+.content1 h2 {
+  margin-top: 0px;
+  text-align: right;
+}
+
+.content1 .smaller-text {
+  color: var(--white);
+  padding: 0px 0px 0px 70px;
+  text-align: right;
+}
+
+.content1__grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  width: 80%;
+  margin: 0 auto -50px;
+  gap: 80px;
+  padding-top: 130px;
+}
+
+.content1__grid__left {
+  /* background: blue; */
+  padding-top: 150px;
+}
+
+.content1__grid__right {
+  /* background: yellow; */
+  padding-top: 50px;
+  max-width: 400px;
+}
+
+.img-container {
+  text-align: left;
+}
+
+@media (max-width: 1000px) {
   .img-big {
     width: 200px;
     height: 200px;
@@ -208,11 +302,42 @@ h3 {
     padding-right: 0;
   }
 
+  .content3__grid-item {
+  }
+
   .arrow-down {
     padding-top: 20px;
   }
 
   .arrow-down img {
     width: 30px;
+  }
+
+  @media (max-width: 1390px) {
+    /* COVER */
+    h1 {
+      font-size: 40px;
+      margin-top: 20px;
+    }
+
+    .smaller-text {
+      font-size: 22px;
+    }
+    .cover {
+      background-position: bottom;
+    }
+
+    .cover__grid {
+      display: grid;
+      grid-template-rows: 1fr 1fr 1fr;
+      width: 100%;
+      margin: 0 auto;
+      position: relative;
+      top: -200px;
+    }
+
+    .grid-item1 p {
+      padding: 10px 10px 20px;
+    }
   }
 }

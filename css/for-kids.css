@@ -1,0 +1,48 @@
+@import url(/css/imports/footer.css);
+@import url(/css/imports/global.css);
+@import url(/css/imports/nav.css);
+
+.intro {
+  background-image: url(/images/sp1-1.jpg);
+  background-repeat: no-repeat;
+  background-position: -350px;
+  height: 100vh;
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: 1fr 1fr;
+  position: relative;
+}
+
+.intro__content {
+  background-color: rgb(35, 55, 115, 0.85);
+  width: 50%;
+  margin: 0 auto;
+  position: relative;
+  top: 200px;
+  padding: 50px;
+}
+
+.intro__content h1 {
+  /* margin-top: 200px; */
+  color: var(--blue);
+}
+
+.intro__content p {
+  color: var(--white);
+}
+
+.intro .cover__cta {
+  position: relative;
+  top: 200px;
+}
+
+@media (max-width: 1000px) {
+  .intro__content {
+    width: 100%;
+    top: 100px;
+  }
+
+  .intro h1 {
+    font-size: 60px;
+  }
+}

@@ -2,59 +2,6 @@
 @import url(/css/imports/global.css);
 @import url(/css/imports/nav.css);
 
-/* SECTION COVER */
-
-h1 {
-  color: var(--blue);
-  padding: 50px 50px 0px 50px;
-  text-align: center;
-  margin-top: -20px;
-}
-
-.smaller-text {
-  color: var(--white);
-  padding: 30px 150px;
-  text-align: center;
-  margin-top: 0px;
-}
-
-.cover {
-  padding-top: 300px;
-  background-image: url(/images/sp1-22.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: bottom;
-  background-attachment: scroll;
-  height: 100vh;
-}
-
-.cover__grid {
-  display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
-  width: 70%;
-  margin: 0 auto;
-  position: relative;
-  top: -100px;
-}
-
-.grid-item1 {
-  background: var(--purple);
-  opacity: 70%;
-}
-
-.grid-item1 p {
-  padding: 20px 200px 60px 200px;
-}
-
-.grid-item2 {
-  position: relative;
-  top: 60px;
-}
-
-.cover__cta .grid-item2 a {
-  display: none;
-}
-
 /* SECTION CONTENT 1 */
 
 .content1 {
@@ -83,12 +30,12 @@ h1 {
 }
 
 .content1__grid__left {
-  /* background: green; */
+  background: green;
   padding-top: 150px;
 }
 
 .content1__grid__right {
-  /* background: yellow; */
+  background: yellow;
   padding-top: 50px;
   max-width: 400px;
 }
@@ -204,34 +151,6 @@ h1 {
 
 .content3 .img-researchers {
   border: solid 10px var(--grey);
-}
-
-@media (max-width: 1390px) {
-  /* COVER */
-  h1 {
-    font-size: 40px;
-    margin-top: 20px;
-  }
-
-  .smaller-text {
-    font-size: 22px;
-  }
-  .cover {
-    background-position: bottom;
-  }
-
-  .cover__grid {
-    display: grid;
-    grid-template-rows: 1fr 1fr 1fr;
-    width: 100%;
-    margin: 0 auto;
-    position: relative;
-    top: -200px;
-  }
-
-  .grid-item1 p {
-    padding: 10px 10px 20px;
-  }
 }
 
 @media (max-width: 1000px) {
