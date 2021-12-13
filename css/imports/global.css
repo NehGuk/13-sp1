@@ -302,6 +302,18 @@ h1 {
   border: solid 10px var(--pink);
 }
 
+
+/* SECTION CONTENT 2 */
+
+.content2 {
+  background-color: var(--white);
+}
+
+.content2 p {
+  color: var(--purple);
+}
+
+
 /* SECTION CONTENT 3 */
 
 .content3 {
