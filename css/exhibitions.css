@@ -4,13 +4,7 @@
 
 /* COVER */
 .cover {
-  padding-top: 300px;
   background-image: url(/images/sp1-20.jpg);
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: bottom;
-  background-attachment: scroll;
-  height: 100vh;
 }
 
 /* SECTION ECOLOGY CTA*/

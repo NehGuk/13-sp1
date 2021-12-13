@@ -201,9 +201,9 @@ h1 {
 }
 
 .grid-item1 {
-  /* background: rgb(34, 55, 115, 0.8); */
-  background: var(--purple);
-  opacity: 70%;
+  background: rgb(34, 55, 115, 0.8);
+  /* background: var(--purple);
+  opacity: 70%; */
 }
 
 .grid-item1 p {
@@ -407,7 +407,7 @@ h1 {
 
   /* SECTION CONTENT 3 */
 @media (max-width: 1150px) {
-  /* SECTION CONTENT 3 */
+  
   .content3__grid {
     display: grid;
     grid-template-columns: repeat(1, 1fr);
