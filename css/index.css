@@ -56,62 +56,7 @@
   border: solid 10px var(--blue);
 }
 
-/* SECTION CONTENT 3 */
 
-.content3 {
-  background-color: var(--white);
-}
-
-.content3__grid {
-  display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  margin: 0 auto;
-  width: 80%;
-  gap: 40px;
-  padding: 180px 0 100px;
-}
-
-.content3__grid-item {
-  /* background: green; */
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-}
-
-.content3 .blue {
-  background-color: var(--blue);
-  color: var(--dark-purple);
-}
-
-.content3 .blue:hover {
-  border: solid 5px var(--blue);
-}
-
-.content3 .grey {
-  background-color: var(--grey);
-  color: var(--dark-purple);
-}
-
-.content3 .grey:hover {
-  border: solid 5px var(--grey);
-}
-.content3__cta:hover {
-  background-color: var(--white);
-  color: var(--purple);
-  border: solid 5px var(--dark-purple);
-}
-
-.content3 .img-kids {
-  border: solid 10px var(--pink);
-}
-
-.content3 .img-teachers {
-  border: solid 10px var(--blue);
-}
-
-.content3 .img-researchers {
-  border: solid 10px var(--grey);
-}
 
   /* SECTION CONTENT 2 */
   .content2__grid {
@@ -151,28 +96,4 @@
   }
 }
 
-@media (max-width: 1150px) {
-  /* SECTION CONTENT 3 */
-  .content3__grid {
-    display: grid;
-    grid-template-columns: repeat(1, 1fr);
-    margin: 0 auto;
-    width: 80%;
-    gap: 40px;
-    padding: 100px 0 100px;
-  }
 
-  .content3-text {
-    font-family: nobel, sans-serif;
-    font-weight: 200;
-    font-style: normal;
-    font-size: 24px;
-    color: var(--dark-purple);
-    padding-right: 50px;
-  }
-
-  .content3 img {
-    width: 180px;
-    height: 180px;
-  }
-}

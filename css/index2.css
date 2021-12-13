@@ -2,24 +2,51 @@
 @import url(/css/imports/global.css);
 @import url(/css/imports/nav.css);
 
-.section1 {
-  background-color: var(--grey);
+.content2 {
+  background-color: var(--white);
 }
 
-.grid-container1 {
-  height: 60vh;
-  margin-top: 200px;
+.img-content2 {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: solid 5px var(--blue);
+  margin: 0 auto;
+}
+
+.content2 h3 {
+  text-align: left;
+}
+
+.content2 p {
+  color: var(--purple);
+  font-size: 24px;
+  padding: 0px;
+  text-align: left;
+}
+
+.content2__grid {
+  width: 80%;
+  margin: 0 auto;
+  padding: 100px 0 100px;
   display: grid;
-  grid-template-columns: 1fr 1fr;
-  /* position: relative; */
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 20px;
+  text-align: center;
 }
 
-.side-a {
-  background-color: grey;
+.content2__grid-item {
+  background: linen;
+  padding-top: 100px;
 }
 
-.side-b {
-  background-color: lightseagreen;
-  position: absolute;
-  right: 0px;
+@media (max-width: 1150px) {
+  .content2__grid {
+    grid-template-columns: 1fr;
+  }
+
+  .content2 h3 {
+    text-align: center;
+  }
 }
