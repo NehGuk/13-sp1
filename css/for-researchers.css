@@ -4,15 +4,15 @@
 
 /* COVER */
 .cover {
-  background-image: url(/images/sp1-1.jpg);
+  background-image: url(/images/sp1-16.jpg);
 }
 
-/* KIDS PAGE CTA */
-#school-holidays {
+/* RESEARCHERS PAGE CTA */
+#collaborate {
   padding-bottom: 120px;
 }
 
-.for-kids-cta {
+.for-researchers-cta {
   display: flex;
   justify-content: center;
   margin-top: 20px;
