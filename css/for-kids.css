@@ -4,7 +4,19 @@
 
 /* COVER */
 .cover {
-  background-image: url(/images/sp1-1.jpg);
+  background-image: url(/images/sp1-1c.jpg);
+}
+
+.grid-item1 {
+  background: rgb(34, 55, 115, 0.9);
+  width: 70%;
+  margin: 0 auto;
+  /* background: var(--purple);
+  opacity: 70%; */
+}
+
+.grid-item1 p {
+  padding: 30px;
 }
 
 /* KIDS PAGE CTA */
@@ -16,4 +28,10 @@
   display: flex;
   justify-content: center;
   margin-top: 20px;
+}
+
+@media(max-width: 1150px) {
+  .grid-item1 {
+    width: 100%;
+    
 }

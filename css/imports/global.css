@@ -376,6 +376,12 @@ h1 {
   grid-area: title;
 }
 
+.date {
+  font-weight: bold;
+  font-size: 18px;
+  text-align: center;
+}
+
 .text {
   grid-area: text;
 }
@@ -486,7 +492,7 @@ h1 {
     text-align: center;
     padding-right: 0;
   }
-
+  
 /* SECTION CONTENT 2 */
 @media (max-width: 1000px) {
   .content2__grid {

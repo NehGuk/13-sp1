@@ -6,11 +6,3 @@
 .cover {
   background-image: url(/images/sp1-36.jpg);
 }
-
-.date {
-  font-weight: bold;
-  font-size: 18px;
-  text-align: center;
-
-  /* color: var(--blue); */
-}
