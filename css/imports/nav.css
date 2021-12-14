@@ -89,3 +89,9 @@ nav ul a {
     padding: 20px 40px;
   }
 }
+
+@media (max-width: 370px) {
+  .logo {
+    width: 180px;
+  }
+}
