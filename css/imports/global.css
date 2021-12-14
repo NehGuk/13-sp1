@@ -56,7 +56,7 @@ h3 {
   font-family: nobel, sans-serif;
   font-weight: 200;
   font-style: normal;
-  font-size: 42px;
+  font-size: 28px;
   color: var(--purple);
 }
 
@@ -100,6 +100,26 @@ h3 {
 .cover__cta:hover {
   background-color: var(--white);
   color: var(--purple);
+}
+
+.content2__cta {
+  font-family: nobel, sans-serif;
+  font-weight: 600;
+  font-style: normal;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-decoration: none;
+  background-color: var(--purple);
+  color: var(--white);
+  width: 300px;
+  padding: 20px 60px;  
+  text-align: center;
+  border: solid transparent;
+  display: block;
+}
+
+.content2__cta:hover {
+  display: none;
 }
 
 .content3__cta {

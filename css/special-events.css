@@ -6,3 +6,67 @@
 .cover {
   background-image: url(/images/sp1-19.jpg);
 }
+
+.content2__grid {
+  display: grid;
+  grid-template-areas:
+    "pic title title title"
+    "pic text text text"
+    "pic cta cta cta";
+  gap: 10px;
+  width: 80%;
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.content2__grid__item {
+  background: pink;
+}
+
+.pic {
+  grid-area: pic;
+}
+
+.title {
+  grid-area: title;
+}
+
+.text {
+  grid-area: text;
+}
+
+.cta {
+  grid-area: cta;
+}
+
+.content2 img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border: solid 5px var(--blue);
+}
+
+@media (max-width: 1000px) {
+  .content2__grid {
+    display: grid;
+    grid-template-areas:
+      "pic"
+      "title"
+      "text"
+      "cta";
+    width: 100%;
+  }
+
+  .content2 img {
+    width: 150px;
+    height: 150px;
+  }
+
+  .pic {
+    text-align: center;
+  }
+
+  .cta {
+    text-align: center;
+  }
+}
