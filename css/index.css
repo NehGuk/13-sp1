@@ -6,3 +6,39 @@
   background: var(--purple);
   opacity: 70%;
 }
+
+.animated-img-big {
+  animation-name: movedown;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  position: relative;
+  top: 0px;
+}
+
+.animated-img-small {
+  animation-name: moveup;
+  animation-duration: 1s;
+  animation-fill-mode: forwards;
+  position: relative;
+  top: -100px;
+}
+
+@keyframes movedown {
+  100% {
+    top: 0px;
+  }
+
+  0% {
+    top: -50px;
+  }
+}
+
+@keyframes moveup {
+  100% {
+    top: -100px;
+  }
+
+  0% {
+    top: -50px;
+  }
+}
