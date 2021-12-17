@@ -18,7 +18,7 @@ body {
 :root {
   --purple: #223773;
   --dark-purple: #1e2c6b;
-  --blue: #76aede;
+  --blue: #76aede; 
   --pink: #c4a3cf;
   --grey: #cfcfcf;
   --white: #fdfdff;
@@ -160,8 +160,8 @@ h3 {
 }
 
 .img-small {
-  width: 155px;
-  height: 155px;
+  width: 153px;
+  height: 153px;
   object-fit: cover;
   border-radius: 50%;
   border: solid 10px var(--pink);
@@ -320,7 +320,8 @@ h1 {
 }
 
 .white h2 {
-  color: var(--blue);
+  color: var(--purple);
+  opacity: 90%;
 }
 
 .white .smaller-text {
