@@ -83,6 +83,11 @@
   padding-top: 80px;
 }
 
+.content3__grid-item {
+  /* background: green; */
+  justify-content: start;
+}
+
 @media (max-width: 1150px) {
   .visit-us-cover {
     padding-top: 100px;

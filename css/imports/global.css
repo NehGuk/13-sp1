@@ -489,6 +489,13 @@ h1 {
 
   .img-small {
     display: none;
+    /* width: 76px;
+    height: 76px;
+    border: solid 5px var(--pink); */
+  }
+
+  .grey .img-big {
+    border: solid 5px var(--blue);
   }
 
   h2 {
@@ -516,7 +523,7 @@ h1 {
   }
 
   .content3 p {
-    font-size: 18px;
+    font-size: 24px;
     text-align: center;
     padding-right: 0;
   }
