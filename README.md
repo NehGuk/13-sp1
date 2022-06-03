@@ -34,7 +34,7 @@ This project should reflect the student's creative and technical knowledge and s
 
 ## Full project report
 
-![Full report](/assets/2021-12-19_SemesterProject_henrique-kugler_report.pdf)
+[Full report](/assets/2021-12-19_SemesterProject_henrique-kugler_report.pdf)
 
 ## Grading and feedback from instructor
 
