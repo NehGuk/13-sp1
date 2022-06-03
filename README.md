@@ -41,7 +41,7 @@ This project should reflect the student's creative and technical knowledge and s
 **Grade:** A
 
 **Appealing design:** 2,75 / 3
-Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client.
+Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client.\*
 
 **Technically efficient:** 4 / 4
 Comment: HTML is neat, bug-free and semantic. CSS is organised and follows DRY principles. No issues on the technical side.
@@ -51,6 +51,13 @@ Comment: The blue text on the blue background is AA but not AAA compliant. Good 
 
 **Report:** 1 / 1
 Comment: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I Very little to fault in the project.
+
+### Marking Criteria
+
+- Can apply vocational knowledge to practical problems in web development with emphasis on design process, aesthetics and the use of HTML and CSS;
+- Can apply vocational knowledge to practical problems in web development with emphasis on design process, aesthetics and the use of HTML and CSS;
+- Masters industry-relevant tools, techniques and expressions in design process and development of websites in accordance with regulations and guidelines for universal design;
+- Can study and document his/her own work processes and identify design related issues and what measures needs to be implemented.
 
 ## Contributing
 
