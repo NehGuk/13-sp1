@@ -31,10 +31,7 @@ This project should reflect the student's creative and technical knowledge and s
 - [Mid-fidelity web prototype](https://xd.adobe.com/view/b08399c0-a725-4348-ac92-9de243d70591-e5d0/);
 - [Low-fidelity mobile prototype](https://xd.adobe.com/view/5ea1f10f-8843-4eb2-893d-083f197a63ee-0bf2/);
 - [Gantt chart](https://app.instagantt.com/shared/61be4727d4b9055cb29e34dd).
-
-## Full project report
-
-[Full report](/assets/2021-12-19_SemesterProject_henrique-kugler_report.pdf)
+- [Full report](/assets/2021-12-19_SemesterProject_henrique-kugler_report.pdf)
 
 ## Grading and feedback from instructor
 
@@ -65,7 +62,7 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 
 ## Contact
 
-[My LinkedIn page](www.linkedin.com)
+[My LinkedIn page](https://www.linkedin.com/in/henri-kugler-78218422b/)
 
 ## License
 
