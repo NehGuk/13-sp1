@@ -26,6 +26,32 @@ This project should reflect the student's creative and technical knowledge and s
 - HTML
 - CSS
 
+## Links
+
+- [Mid-fidelity web prototype](https://xd.adobe.com/view/b08399c0-a725-4348-ac92-9de243d70591-e5d0/);
+- [Low-fidelity mobile prototype](https://xd.adobe.com/view/5ea1f10f-8843-4eb2-893d-083f197a63ee-0bf2/);
+- [Gantt chart](https://app.instagantt.com/shared/61be4727d4b9055cb29e34dd).
+
+## Full project report
+
+![Full report](/assets/2021-12-19_SemesterProject_henrique-kugler_report.pdf)
+
+## Grading and feedback from instructor
+
+**Grade:** A
+
+**Appealing design:** 2,75 / 3
+Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client.
+
+**Technically efficient:** 4 / 4
+Comment: HTML is neat, bug-free and semantic. CSS is organised and follows DRY principles. No issues on the technical side.
+
+**WCAG guidelines, content management and SEO:** 2 / 2
+Comment: The blue text on the blue background is AA but not AAA compliant. Good if you can get AAA compliance but no points deduction.
+
+**Report:** 1 / 1
+Comment: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I Very little to fault in the project.
+
 ## Contributing
 
 Feel free to suggest improvements and open a pull request if you want to get involved in this project.
