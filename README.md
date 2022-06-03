@@ -1,4 +1,4 @@
-# Semester Project 1
+# Community Science Museum | My first project
 
 ![image](./assets/screenshot-community-science-museum.png)
 
