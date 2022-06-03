@@ -6,7 +6,7 @@ An interactive science museum called the Community Science Museum is opening in 
 
 ## Description
 
-Playful rather than serious. Simple rather than complex. Objective rather than long-winded. These were the basic premises that guided me in the conceptualisation of the Community Science Museum website. From the colour palette to the typographic choices, from the selection of the images to the navigation structure of the project, the choices that I have made reflect a well-defined goal: develop something that is functionally simple and aesthetically appealing to young target audiences.
+Playful rather than serious. Simple rather than complex. These were the basic premises that guided me in the conceptualisation of the Community Science Museum website. From the colour palette to the typographic choices, from the selection of the images to the navigation structure of the project, the choices that I have made reflect a well-defined goal: develop something that is functionally simple and aesthetically appealing to young target audiences.
 
 - Target audience: primary and middle school children (7-15) and families with young children;
 - The site should appeal to youngsters without pandering;
@@ -20,7 +20,7 @@ This project should reflect the student's creative and technical knowledge and s
 - Communication technology;
 - Developing with HTML/CSS.
 
-## Built With
+## Built with
 
 - Adobe XD
 - HTML
@@ -33,11 +33,11 @@ This project should reflect the student's creative and technical knowledge and s
 - [Gantt chart](https://app.instagantt.com/shared/61be4727d4b9055cb29e34dd);
 - [Full report](https://shared-assets.adobe.com/link/e01001d4-0f56-4825-7ed8-391135a7e4d7).
 
-## Grading and feedback from instructor
+## Grading & Feedback from instructor
 
 **Grade:** A
 
-**Appealing design:** 2,75 / 3
+### Appealing design: 2,75 / 3
 
 Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client.\*
 
