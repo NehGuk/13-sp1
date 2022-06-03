@@ -2,6 +2,8 @@
 
 ![image](./assets/screenshot-community-science-museum.png)
 
+[Link to the website deployed via Netlify](https://cranky-wing-1d6bb5.netlify.app/index.html)
+
 An interactive science museum called the Community Science Museum is opening in the ficticious city of Oslotlantis. Developing a website for this immaginary museum was my first project as a front-end development student at the Norwegian School of Technology and Digital Media (Noroff).
 
 ## Description
