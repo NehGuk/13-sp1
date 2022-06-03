@@ -1,6 +1,6 @@
 # Community Science Museum
 
-![image](./assets/screenshot-community-science-museum.png)
+![image](./assets/screenshot-community-science-museum.jpg)
 
 [Link to the website deployed via Netlify](https://cranky-wing-1d6bb5.netlify.app/index.html)
 
