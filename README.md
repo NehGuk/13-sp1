@@ -60,14 +60,14 @@ Comment: Well thought through report. Nice to read the student’s holistic thin
 
 Feel free to suggest improvements and open a pull request if you want to get involved in this project.
 
-## Contact
-
-[My LinkedIn page](https://www.linkedin.com/in/henri-kugler-78218422b/)
-
 ## License
 
 - Copyright (c) 2022 Henri Kugler
   [MIT License](/LICENSE)
+
+## Contact
+
+[My LinkedIn page](https://www.linkedin.com/in/henri-kugler-78218422b/)
 
 ## Acknowledgments
 
