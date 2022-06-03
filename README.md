@@ -66,7 +66,8 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 
 ## License
 
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
+- Copyright (c) 2022 Henri Kugler
+  [MIT License](/LICENSE)
 
 ## Acknowledgments
 
