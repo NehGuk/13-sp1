@@ -39,7 +39,7 @@ This project should reflect the student's creative and technical knowledge and s
 
 **Grade:** A
 
-### Appealing design: 2,75 / 3
+**Appealing design:** 2,75 / 3
 
 _Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client._
 
