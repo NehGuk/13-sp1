@@ -66,4 +66,4 @@ You can link to your license file here if you're using one, or mention what lice
 
 ## Acknowledgments
 
-All pictures have been taken from [Unsplash](https://unsplash.com).
+All pictures are royalty-free and have been taken from [Unsplash](https://unsplash.com).
