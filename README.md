@@ -4,7 +4,7 @@
 
 [Link to the website deployed via Netlify](https://cranky-wing-1d6bb5.netlify.app/index.html)
 
-An interactive science museum called the Community Science Museum is opening in the ficticious city of Oslotlantis. Developing a website for this immaginary museum was my first project as a front-end development student at the Norwegian School of Technology and Digital Media (Noroff).
+An interactive science museum called **Community Science Museum** is opening in the ficticious city of Oslotlantis. Developing a website for this immaginary museum was my first project as a front-end development student at the Norwegian School of Technology and Digital Media (Noroff).
 
 ## Description
 
@@ -35,25 +35,25 @@ This project should reflect the student's creative and technical knowledge and s
 - [Gantt chart](https://app.instagantt.com/shared/61be4727d4b9055cb29e34dd);
 - [Full report](https://shared-assets.adobe.com/link/e01001d4-0f56-4825-7ed8-391135a7e4d7).
 
-## Grading & Feedback from instructor
+## Grade & Feedback from instructor
 
 **Grade:** A
 
 ### Appealing design: 2,75 / 3
 
-Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client.\*
+_Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client._
 
 **Technically efficient:** 4 / 4
 
-Comment: HTML is neat, bug-free and semantic. CSS is organised and follows DRY principles. No issues on the technical side.
+_Comment: HTML is neat, bug-free and semantic. CSS is organised and follows DRY principles. No issues on the technical side._
 
 **WCAG guidelines, content management and SEO:** 2 / 2
 
-Comment: The blue text on the blue background is AA but not AAA compliant. Good if you can get AAA compliance but no points deduction.
+_Comment: The blue text on the blue background is AA but not AAA compliant. Good if you can get AAA compliance but no points deduction._
 
 **Report:** 1 / 1
 
-Comment: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I Very little to fault in the project.
+_Comment: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I Very little to fault in the project._
 
 ### Marking Criteria
 
@@ -69,7 +69,7 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 ## License
 
 - Copyright (c) 2022 Henri Kugler
-  [MIT License](/LICENSE)
+- [MIT License](/LICENSE)
 
 ## Contact
 
