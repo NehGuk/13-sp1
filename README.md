@@ -2,8 +2,6 @@
 
 ![image](./assets/screenshot-community-science-museum.jpg)
 
-[Link to the website deployed via Netlify](https://cranky-wing-1d6bb5.netlify.app/index.html)
-
 An interactive science museum called **Community Science Museum** is opening in the ficticious city of Oslotlantis. Developing a website for this immaginary museum was my first project as a front-end development student at the Norwegian School of Technology and Digital Media (Noroff).
 
 ## Description
@@ -30,6 +28,7 @@ This project should reflect the student's creative and technical knowledge and s
 
 ## Links
 
+- PRODUCT | [Link to the website deployed via Netlify](https://cranky-wing-1d6bb5.netlify.app/index.html)
 - [Mid-fidelity web prototype](https://xd.adobe.com/view/b08399c0-a725-4348-ac92-9de243d70591-e5d0/);
 - [Low-fidelity mobile prototype](https://xd.adobe.com/view/5ea1f10f-8843-4eb2-893d-083f197a63ee-0bf2/);
 - [Gantt chart](https://app.instagantt.com/shared/61be4727d4b9055cb29e34dd);
