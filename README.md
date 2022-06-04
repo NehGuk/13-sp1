@@ -59,7 +59,7 @@ _Feedback from instructor: The blue text on the blue background is AA but not AA
 
 **Report:** 1 / 1
 
-_Feedback from instructor: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I Very little to fault in the project._
+_Feedback from instructor: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I. Very little to fault in the project._
 
 ## Contributing
 
