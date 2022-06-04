@@ -40,19 +40,19 @@ This project should reflect the student's creative and technical knowledge and s
 
 **Appealing design:** 2,75 / 3
 
-_Comment: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client._
+_Feedback from instructor: The site looks great. Fonts and colors well chosen. Easy to navigate site. Ideally, projects are delivered as though they’re ready to go live for a client._
 
 **Technically efficient:** 4 / 4
 
-_Comment: HTML is neat, bug-free and semantic. CSS is organised and follows DRY principles. No issues on the technical side._
+_Feedback from instructor: HTML is neat, bug-free and semantic. CSS is organised and follows DRY principles. No issues on the technical side._
 
 **WCAG guidelines, content management and SEO:** 2 / 2
 
-_Comment: The blue text on the blue background is AA but not AAA compliant. Good if you can get AAA compliance but no points deduction._
+_Feedback from instructor: The blue text on the blue background is AA but not AAA compliant. Good if you can get AAA compliance but no points deduction._
 
 **Report:** 1 / 1
 
-_Comment: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I Very little to fault in the project._
+_Feedback from instructor: Well thought through report. Nice to read the student’s holistic thinking including topics like ED&I Very little to fault in the project._
 
 ### Marking Criteria
 
