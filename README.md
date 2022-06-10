@@ -29,10 +29,10 @@ This project should reflect the student's creative and technical knowledge and s
 ## Links
 
 - PRODUCT | [Link to the website deployed via Netlify](https://cranky-wing-1d6bb5.netlify.app/index.html)
-- [Mid-fidelity web prototype](https://xd.adobe.com/view/b08399c0-a725-4348-ac92-9de243d70591-e5d0/);
-- [Low-fidelity mobile prototype](https://xd.adobe.com/view/5ea1f10f-8843-4eb2-893d-083f197a63ee-0bf2/);
-- [Gantt chart](https://app.instagantt.com/shared/61be4727d4b9055cb29e34dd);
-- [Full report](https://shared-assets.adobe.com/link/e01001d4-0f56-4825-7ed8-391135a7e4d7).
+- [Mid-fidelity web prototype](https://xd.adobe.com/view/b08399c0-a725-4348-ac92-9de243d70591-e5d0/)
+- [Low-fidelity mobile prototype](https://xd.adobe.com/view/5ea1f10f-8843-4eb2-893d-083f197a63ee-0bf2/)
+- [Gantt chart](https://app.instagantt.com/shared/61be4727d4b9055cb29e34dd)
+- [Full report](https://shared-assets.adobe.com/link/e01001d4-0f56-4825-7ed8-391135a7e4d7)
 
 ## Grade & Feedback from instructor
 
@@ -73,7 +73,7 @@ Feel free to suggest improvements and open a pull request if you want to get inv
 ## Contact
 
 - [My LinkedIn page](https://www.linkedin.com/in/henri-kugler-78218422b/)
-- My personal portfolio (under construction)
+- [My personal portfolio](https://nehguk.github.io)
 
 ## Acknowledgments
 
